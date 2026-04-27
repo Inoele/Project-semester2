@@ -1,0 +1,19 @@
+# Project Semester 2
+
+Project ini adalah sistem informasi pemasukan dan pengeluaran sederhana menggunakan PHP.
+
+## ⚠️ Catatan
+Project ini menggunakan PHP, sehingga tidak dapat dijalankan melalui GitHub Pages.
+
+## ▶️ Cara Menjalankan
+1. Install XAMPP
+2. Pindahkan folder project ke htdocs
+3. Jalankan Apache
+4. Buka browser dan akses:
+   http://localhost/project-semester2
+
+## 📁 Fitur
+- Input pemasukan
+- Input pengeluaran
+- Perhitungan total
+- Penyimpanan data
